@@ -35,4 +35,8 @@ export const someNewTestVar7 = {};
 export const someNewTestVar8 = {};
 export const someNewTestVar9 = {};
 
+<<<<<<< HEAD
 export const TEST = {}
+=======
+export const ADDED_SOMETHING_TO_MASTER = {}
+>>>>>>> master
