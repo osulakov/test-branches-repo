@@ -42,4 +42,6 @@ export const ADDED_SOMETHING_TO_MASTER = {}
 
 export const ADDED_SOMETHING_TO_TEST = {}
 
+export const ADDED_SOMETHING_TO_TEST_2 = {}
+
 
