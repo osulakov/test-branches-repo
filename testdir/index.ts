@@ -39,3 +39,7 @@ export const someNewTestVar9 = {};
 export const TEST = {}
 
 export const ADDED_SOMETHING_TO_MASTER = {}
+
+export const ADDED_SOMETHING_TO_TEST = {}
+
+
