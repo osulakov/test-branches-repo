@@ -24,3 +24,13 @@ export default function configureStore() {
   }
 
 export type RootState = ReturnType<typeof rootReducer>;
+
+export const someNewTestVar1 = {};
+export const someNewTestVar2 = {};
+export const someNewTestVar3 = {};
+export const someNewTestVar4 = {};
+export const someNewTestVar5 = {};
+export const someNewTestVar6 = {};
+export const someNewTestVar7 = {};
+export const someNewTestVar8 = {};
+export const someNewTestVar9 = {};
